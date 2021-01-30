@@ -1,2 +1,2 @@
-# Data-Science-Projects
-Some simple data science projects
+# Recommender System
+Some simple recommender system
